@@ -1,0 +1,5 @@
+nltk==3.7
+scikit_learn==1.0.1
+spacy==3.7.2
+textblob==0.17.1
+torch==1.9.0
